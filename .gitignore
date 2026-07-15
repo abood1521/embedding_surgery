@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local copy of the surgically-modified model (published on the HF Hub)
+finance-minilm-l6-v2/
